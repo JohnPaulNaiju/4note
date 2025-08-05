@@ -1,4 +1,4 @@
-## 4note: AI note taking app 📝 <img width="400" height="400" alt="Gesture" src="https://github.com/user-attachments/assets/f26ad277-5655-4a34-b712-61903bed9803" />
+## 4note: AI note taking app 📝 <img width="400" height="400" alt="Gesture" src="https://github.com/user-attachments/assets/f991bfa3-6445-439f-8db3-e1ca4df61eef" />
 
 4note is an **AI-powered note-taking platform** designed to capture, organize, and enhance knowledge from virtually any source. Whether it’s lectures, meetings, videos, audio recordings, scanned documents, or PDFs, 4note automatically processes and transforms your content into searchable, interactive, and easy-to-understand notes.
 
@@ -45,7 +45,7 @@ Please note that 4note is currently **not hosted live**. The provided codebases 
 
 ### Visuals 📸🎬
 
-https://github.com/user-attachments/assets/fa217253-feba-42ac-8dd1-4eefd173636a
+https://github.com/user-attachments/assets/f26ad277-5655-4a34-b712-61903bed9803
 
 ### Main files:
 - backend (firebase cloud functions)
