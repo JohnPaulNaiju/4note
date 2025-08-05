@@ -1,4 +1,4 @@
-## 4note: AI note taking app 📝 <img width="400" height="400" alt="Gesture" src="https://github.com/user-attachments/assets/b41e9793-7241-4ae9-879b-5b454451783d" />
+## 4note: AI note taking app 📝 <img width="400" height="400" alt="Gesture" src="https://github.com/user-attachments/assets/f26ad277-5655-4a34-b712-61903bed9803" />
 
 4note is an **AI-powered note-taking platform** designed to capture, organize, and enhance knowledge from virtually any source. Whether it’s lectures, meetings, videos, audio recordings, scanned documents, or PDFs, 4note automatically processes and transforms your content into searchable, interactive, and easy-to-understand notes.
 
