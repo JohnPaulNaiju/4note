@@ -1,0 +1,38 @@
+{
+  "name": "functions",
+  "description": "4note Labs Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@google-apps/meet": "^0.3.0",
+    "@google-cloud/local-auth": "^2.1.0",
+    "@google-cloud/storage": "^7.1.0",
+    "@google/generative-ai": "^0.21.0",
+    "@mozilla/readability": "^0.5.0",
+    "email-validator": "^2.0.4",
+    "firebase-admin": "^12.6.0",
+    "firebase-functions": "^6.2.0",
+    "jsdom": "^26.0.0",
+    "lda": "^0.2.0",
+    "mammoth": "^1.6.0",
+    "node-fetch": "^2.6.9",
+    "nodemailer": "^6.9.15",
+    "otp-generator": "^4.0.1",
+    "pdf-parse": "^1.1.1",
+    "tesseract.js": "^4.1.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^3.3.0"
+  },
+  "private": true
+}
