@@ -109,6 +109,8 @@ You need blaze plan for Cloud functions.
 15) For listen to lecture open the file `Lecture.jsx` in `/frontend/screens/home/Lecture.jsx` and go to line 269 and you can see a ip address. There add IP address of your locally running server. You can get the IP by running `ipconfig getifaddr en0` in your terminal.
 
 16) You can also create your own android apk files, submit to app n play store etc. You can find how to do it online!
+    
+17) For the rest, just ask AI 🤷‍♂️ 
 
 
 ## Thank you :)
